@@ -1,5 +1,5 @@
 <p aligh="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hohyun%20Lee&reversal=false&fontColor=black&fontSize=100&customColorList=3&stroke=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hohyun%20Lee&reversal=false&fontColor=black&fontSize=100&customColorList=3&stroke=ffffff"/>
 </p>
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
