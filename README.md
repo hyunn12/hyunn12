@@ -5,7 +5,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 
 <p align="center">
-I'm Hohyun Lee, a Junior Web Backend Developer🌱
+I'm Hohyun Lee, a Junior Backend Developer🌱
 </p>
 
 <h3 align="center">📓 Tech Stack 📓</h3>
@@ -33,17 +33,8 @@ I'm Hohyun Lee, a Junior Web Backend Developer🌱
 
 <h3 align="center"> ✨ About Me ✨ </h3>
 <p align="center">
-  <a href="https://velog.io/@hyunn964"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hyunn964"/></a>
+  <a href="https://haylee.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-FF5500?style=flat&logo=tistory&logoColor=white&link=https://haylee.tistory.com"/></a>
   <a href="mailto:hyunn964@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hyunn964@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/hyunn964"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hyunn964"/></a>
 </p>
 
-<p aligh="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fever-max&layout=compact&theme=transparent)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hyunn964)](https://velog.io/@hyunn964) <a href="http://lovera.maxam.now.sh/">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunn12&show_icons=true)
-</p>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunn12&count_bg=%23c2e59c&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=true"/></a>
